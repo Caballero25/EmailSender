@@ -1,0 +1,12 @@
+{
+    "manifest_version": 3,
+    "name": "Email Sender",
+    "version": "1.0.0",
+    "description": "Chrome Extension for send fasters emails to your contacts",
+    "icons": {
+      "128": "logo_128.png"
+    },
+    "action": {
+        "default_popup": "poput.html"
+    }
+  }
